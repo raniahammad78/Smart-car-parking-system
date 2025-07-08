@@ -1,4 +1,5 @@
 🚗 Smart Car Parking System
+
 📌 Overview
 The Smart Car Parking System is an automated solution designed to manage and monitor parking spaces efficiently. It leverages hardware components such as Arduino, IR sensors, servo motors, and LCD displays to detect the availability of parking spots and guide vehicles accordingly. This project aims to reduce traffic congestion, save time, and optimize parking in real-time.
 
